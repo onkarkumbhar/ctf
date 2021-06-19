@@ -1,5 +1,19 @@
-web:- 
-              Website to practice                                       No Of problems                   Completed
-forensics:-
-           
-osint:- 
+Website to practice                                  No Of problems                   Completed
+     
+   www.root-me.org                                Web-client----24                        7
+                                                  Web-server----70                        7
+                                                  Steganography-20                        2
+                                                  Realist-------41                        0
+                                                  Forensic------25                        0
+                                                  network-------25                        0
+                                                      
+   https://overthewire.org/wargames/natas/        levels--------34                       11
+       
+   https://app.hackthebox.eu/challenges           Web-----------16                        0
+                                                  Stego----------8                        0
+                                                  OSINT----------8                        0
+                                                  Forensic------10                        0
+
+   http://prompt.ml/                              levels--------16                        1
+                                                  
+   http://www.try2hack.nl/levels/                 web-----------                          1
